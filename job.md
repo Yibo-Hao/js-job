@@ -26,3 +26,4 @@ function getRandomInt(min, max) {
  2. Math.ceil 和 Math.floor 的对称使用
  3. 递归要先考虑好终止条件
  4. 实现两个数之间的随机数
+
